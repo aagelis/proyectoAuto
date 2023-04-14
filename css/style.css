@@ -20,7 +20,7 @@ header{
     z-index: 10;
     background-color: #520707cb;
     background:  linear-gradient(rgba(5, 6, 75, 0.85), rgba(2, 0, 0, 0.85));
-    border: solid black;
+    
 }
 
 header .logo{
